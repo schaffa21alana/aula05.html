@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+         <title>Aula02 HTML - Paragrafos</title>
+    </head>
+
+    <body>
+
+        <h1>Paragrafos</h1>
+        
+        <p>
+             como utilizar <bold>paragrafos</bold> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <strong>paragrafos</strong> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <strike>paragrafos</strike> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <em>paragrafos</em> em HTML 5 com a utilização do navegador Chrome
+       </p>
+
+       <p>
+             como utilizar <bold>paragrafos</bold> em HTML 5 com a utilização do navegador Chrome
+             como utilizar <strong>paragrafos</strong> em HTML 5 com a utilização do navegador Chrome
+             como utilizar paragrafos em HTML 5 com a utilização do navegador Chrome
+             como utilizar paragrafos em <i>HTML</i> 5 com a utilização do navegador Chrome
+       </p>
+    
+    
+    </body>
+
+</html>
